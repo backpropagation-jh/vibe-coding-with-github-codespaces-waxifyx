@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/CF53hjK4)
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=23573131)
 # ⚾️ AI와 함께하는 숫자 야구 게임 배포 프로젝트
 
 이 프로젝트는 **VS Code + GitHub Copilot**을 활용한 바이브 코딩 실습 과제입니다.
